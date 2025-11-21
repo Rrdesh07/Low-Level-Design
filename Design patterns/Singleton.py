@@ -1,4 +1,11 @@
 #Singleton pattern 
+
+# when to use ?
+# --> when you want to have only one object of class to be created ex. DB object , Logger object
+# why to use ?
+# to avoid unnecessary stop creation object of class when work can be done with one 
+
+#what it improves ?
 # see basically for controling flights you will need only 
 # one control tower right so it's correct to tell class to return 
 # instance only once , Instead of creating multiples
